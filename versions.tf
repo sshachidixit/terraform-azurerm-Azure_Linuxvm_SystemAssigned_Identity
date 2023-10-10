@@ -7,10 +7,10 @@ terraform {
     
   }
   /*backend "azurerm" {
-    resource_group_name = "terraform-storage-rg"
-    storage_account_name = "tfazurestateshachi"
-    container_name = "tfstatefiles2"
-    key = "terraform.tfstate2"
+    resource_group_name = "**add you resource group name**"
+    storage_account_name = "**Add your storage account name**"
+    container_name = "**add your container name** "
+    key = "** Add you key name eg. terraform.tfstate2 **"
     
   }*/
 }
