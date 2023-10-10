@@ -22,8 +22,8 @@ provider "azurerm" {
   features {
     
   }
-  tenant_id = "xxxxx"
-  subscription_id = "xxxxx"
+  tenant_id = "xxx**Add your tenant id**xxx"
+  subscription_id = "xxx**Add your subscription id**xxx"
 }
 
 provider "azuread" {
