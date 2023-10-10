@@ -16,3 +16,5 @@ Modifications required:
 
   tenant_id = "xxx**Add your tenant id**xxx"
   subscription_id = "xxx**Add your subscription id**xxx"
+
+3. You can change the Bash script too in locals.tf based on your requirement ( I have given one as an example)
